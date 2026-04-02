@@ -1,0 +1,111 @@
+[33mcommit a1f920a98042125aef57a9db32bf597240ef2df1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:29:39 2026 +0000
+
+    lol
+
+[33mcommit 2dedde38afe06357c281f7d46808a900a98dfe2d[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:27:16 2026 +0000
+
+    final
+
+[33mcommit e1f14b1f0b22af679e9f01400d042ee6b3755f52[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:26:35 2026 +0000
+
+    file3
+
+[33mcommit 71078e96bac2f571776f1563bcfc8a43b5e8a0a1[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:25:50 2026 +0000
+
+    deleted file and added another one
+
+[33mcommit c856aee904b1b6b38dc48b552294fa9fcee8254d[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:24:02 2026 +0000
+
+    file added file deleted
+
+[33mcommit 2936f60b5fca873f6418b13f3e8323c23c8f53a8[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:17:32 2026 +0000
+
+    just leanring
+
+[33mcommit 9d2e28e0236a1497f0fa9fc502368eca2f2b5d58[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:15:17 2026 +0000
+
+    done
+
+[33mcommit 160655861d43d853d79ddc268a509534ba372fc7[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 13:11:52 2026 +0000
+
+    message for the new line
+
+[33mcommit ba4257d8e35f7e71fd2d619345dfefdcc59aeea8[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 14:54:35 2026 +0200
+
+    Create file_online with initial content
+    
+    done
+
+[33mcommit 00b61fe0999f0db6614be6066501cb336d692f9e[m
+Author: Hossam Oraby <38508098+MaTb3a@users.noreply.github.com>
+Date:   Thu Apr 2 12:53:26 2026 +0000
+
+    first commit
+
+[33mcommit 4bf5834aec04fb112ebd5ae8e51e8a6795a1640a[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:09:24 2025 -0700
+
+    Update NOTICE
+
+[33mcommit ae601c052b1d19d857e7aa1bf97df3154c07af94[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:08:55 2025 -0700
+
+    Update README.md
+
+[33mcommit ac3e1d09e642966e3b68dea06d1e951984eff1dd[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Thu Apr 3 20:09:08 2025 +0000
+
+    update readme for Git Essential training course
+
+[33mcommit 2f612162d359e25ec4dd6b88b2db97ad62a4a4df[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:48:13 2025 +0000
+
+    clear terminal window after creation
+
+[33mcommit f64512739f9721e04e008f0640c12c1b75442c09[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:41:14 2025 +0000
+
+    Increase font size for terminal to match editor
+
+[33mcommit 333c1e67995fc644a2dc06ab50961951fd05fbea[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Sat Feb 22 16:23:25 2025 +0000
+
+    Adds the code to expose the .git folder (commented)
+
+[33mcommit da4508ff5885dca75ce6e464646fc472872e3df0[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:44:11 2024 -0800
+
+    Update README.md
+    
+    update course name
+
+[33mcommit 110e885edef2f86d09ea75847e374e2e0697a9ac[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:43:46 2024 -0800
+
+    Initial commit
